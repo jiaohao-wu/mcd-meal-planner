@@ -1,0 +1,3 @@
+# 本项目零第三方依赖,只需要 Python 3.8 及以上版本,直接运行即可:
+#   python main.py demo
+# 无需 pip install 任何东西。
